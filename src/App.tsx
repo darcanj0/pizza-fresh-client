@@ -1,6 +1,8 @@
+import "./App.css";
+
 function App() {
   return (
-    <div className="App">
+    <div>
       <div>Abacaxi doce</div>
     </div>
   );
